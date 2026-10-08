@@ -1,0 +1,6 @@
+{
+  "name": "1 Año Juntos - Experiencia 3D Romántica",
+  "description": "Una experiencia interactiva y poética en Three.js con un corazón cristalino 3D, polvo estelar, música y carta de amor para celebrar el primer aniversario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
